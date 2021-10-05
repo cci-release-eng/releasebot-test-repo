@@ -1,4 +1,4 @@
 # releasebot-test-repo
 Used for testing releasebot
 
-# Testing a second PR
+# This is a scotty branch with a scotty title PR
